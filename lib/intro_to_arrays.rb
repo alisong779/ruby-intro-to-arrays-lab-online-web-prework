@@ -30,3 +30,10 @@ def last_element_with_array_methods(element)
   south_east_asia = ["Thailand", "Cambodia", "Singapore", "Myanmar"]
   south_east_asia.last  
 end
+
+def length_of_array(element)
+  programming_languages = ["Ruby", "Javascript", "Python", "C++", "Java", "Lisp", "PHP", "Clojure"]
+  programming_languages.count
+end
+  
+  
